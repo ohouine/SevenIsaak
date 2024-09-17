@@ -1,0 +1,8 @@
+G:\Mon Drive\CFPT\atProg\SevenIsaak\SevenIsaak\obj\Debug\net6.0-windows\SevenIsaak.csproj.AssemblyReference.cache
+G:\Mon Drive\CFPT\atProg\SevenIsaak\SevenIsaak\obj\Debug\net6.0-windows\SevenIsaak.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mon Drive\CFPT\atProg\SevenIsaak\SevenIsaak\obj\Debug\net6.0-windows\SevenIsaak.AssemblyInfoInputs.cache
+G:\Mon Drive\CFPT\atProg\SevenIsaak\SevenIsaak\obj\Debug\net6.0-windows\SevenIsaak.AssemblyInfo.cs
+G:\Mon Drive\CFPT\atProg\SevenIsaak\SevenIsaak\obj\Debug\net6.0-windows\SevenIsaak.csproj.CoreCompileInputs.cache
+G:\Mon Drive\CFPT\atProg\SevenIsaak\SevenIsaak\obj\Debug\net6.0-windows\SevenIsaak.dll
+G:\Mon Drive\CFPT\atProg\SevenIsaak\SevenIsaak\obj\Debug\net6.0-windows\refint\SevenIsaak.dll
+G:\Mon Drive\CFPT\atProg\SevenIsaak\SevenIsaak\obj\Debug\net6.0-windows\SevenIsaak.pdb
