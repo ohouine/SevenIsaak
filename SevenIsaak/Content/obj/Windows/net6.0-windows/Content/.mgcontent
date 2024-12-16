@@ -4,9 +4,15 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>G:/Mon Drive/CFPT/atProg/SevenIsaak/SevenIsaak/Content/PlayerSpriteBatsh.png</File>
+    <File>C:/Users/modoux/Desktop/SevenIsaak/SevenIsaak/Content/hop.png</File>
+    <File>C:/Users/modoux/Desktop/SevenIsaak/SevenIsaak/Content/ninjaStar.png</File>
+    <File>C:/Users/modoux/Desktop/SevenIsaak/SevenIsaak/Content/PlayerSpriteBatsh.png</File>
+    <File>C:/Users/modoux/Desktop/SevenIsaak/SevenIsaak/Content/Rock.png</File>
   </SourceFiles>
   <DestFiles>
+    <File>Slime.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SevenIsaak")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57ebc7a9de02b7eaa04645f8f67cb86a65da9664")]
 [assembly: System.Reflection.AssemblyProductAttribute("SevenIsaak")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SevenIsaak")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

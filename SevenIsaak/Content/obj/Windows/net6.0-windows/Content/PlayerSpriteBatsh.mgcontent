@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>G:/Mon Drive/CFPT/atProg/SevenIsaak/SevenIsaak/Content/PlayerSpriteBatsh.png</SourceFile>
-  <SourceTime>2024-09-17T10:21:20.705+02:00</SourceTime>
-  <DestFile>G:/Mon Drive/CFPT/atProg/SevenIsaak/SevenIsaak/Content/bin/Windows/Content/PlayerSpriteBatsh.xnb</DestFile>
-  <DestTime>2024-09-17T14:01:04.427+02:00</DestTime>
+  <SourceFile>C:/Users/modoux/Desktop/SevenIsaak/SevenIsaak/Content/PlayerSpriteBatsh.png</SourceFile>
+  <SourceTime>2024-09-24T14:01:28.7463675+02:00</SourceTime>
+  <DestFile>C:/Users/modoux/Desktop/SevenIsaak/SevenIsaak/Content/bin/Windows/Content/PlayerSpriteBatsh.xnb</DestFile>
+  <DestTime>2024-09-24T14:01:39.8565135+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
